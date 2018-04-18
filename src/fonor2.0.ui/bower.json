@@ -1,0 +1,22 @@
+{
+  "name": "topbrids",
+  "authors": [
+    "Page Larry <zynisacoolman@163.com>"
+  ],
+  "description": "look",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "font-awesome": "4.6.1"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
