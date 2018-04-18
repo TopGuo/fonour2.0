@@ -1,0 +1,10 @@
+F:\DDD\fonour2.0\src\fonor2.0.ui\bin\Debug\netcoreapp2.0\fonor2.0.ui.deps.json
+F:\DDD\fonour2.0\src\fonor2.0.ui\bin\Debug\netcoreapp2.0\fonor2.0.ui.runtimeconfig.json
+F:\DDD\fonour2.0\src\fonor2.0.ui\bin\Debug\netcoreapp2.0\fonor2.0.ui.runtimeconfig.dev.json
+F:\DDD\fonour2.0\src\fonor2.0.ui\bin\Debug\netcoreapp2.0\fonor2.0.ui.dll
+F:\DDD\fonour2.0\src\fonor2.0.ui\bin\Debug\netcoreapp2.0\fonor2.0.ui.pdb
+F:\DDD\fonour2.0\src\fonor2.0.ui\obj\Debug\netcoreapp2.0\fonor2.0.ui.csproj.CoreCompileInputs.cache
+F:\DDD\fonour2.0\src\fonor2.0.ui\obj\Debug\netcoreapp2.0\fonor2.0.ui.AssemblyInfoInputs.cache
+F:\DDD\fonour2.0\src\fonor2.0.ui\obj\Debug\netcoreapp2.0\fonor2.0.ui.AssemblyInfo.cs
+F:\DDD\fonour2.0\src\fonor2.0.ui\obj\Debug\netcoreapp2.0\fonor2.0.ui.dll
+F:\DDD\fonour2.0\src\fonor2.0.ui\obj\Debug\netcoreapp2.0\fonor2.0.ui.pdb

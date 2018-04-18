@@ -1,21 +1,25 @@
 {
-  "name": "topbrids",
+  "name": "fonor2.0.ui",
+  "homepage": "https://github.com/TopGuo/fonour2.0",
   "authors": [
-    "Page Larry <zynisacoolman@163.com>"
+    "yaya guo <1373978075@qq.com>"
   ],
-  "description": "look",
-  "main": "",
-  "license": "MIT",
-  "homepage": "",
-  "private": true,
+  "description": "",
   "dependencies": {
     "bootstrap": "3.3.6",
-    "font-awesome": "4.6.1"
+    "font-awesome": "4.6.1",
+    "iCheck": "1.0.2",
+    "layer": "*",
+    "jquery.cookie": "1.4.1",
+    "jstree": "3.3.0"
   },
+  "main": "",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "wwwwroot/lib",
     "test",
     "tests"
   ]
